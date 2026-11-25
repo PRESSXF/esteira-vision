@@ -1,0 +1,33 @@
+{
+  "name": "esteira-vision",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Contagem e identificação de peças numa esteira a partir de vídeo, com painel de contagem por etapa. Visão computacional no navegador.",
+  "license": "UNLICENSED",
+  "author": "João Guilherme Gomes de Araújo",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit -p . && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "avaliar": "tsx scripts/avaliar.ts",
+    "gerar-video": "python3 scripts/gerar_video.py"
+  },
+  "dependencies": {
+    "@fontsource/barlow": "5.1.1",
+    "@fontsource/barlow-semi-condensed": "5.1.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.3.4",
+    "tsx": "4.19.2",
+    "typescript": "5.7.2",
+    "vite": "6.0.5",
+    "vitest": "2.1.8"
+  }
+}

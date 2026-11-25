@@ -1,0 +1,369 @@
+{
+  "descricao": "Linha fictícia gerada por scripts/gerar_video.py. Use para medir a precisão do detector.",
+  "seed": 7,
+  "duracao_s": 60.0,
+  "fps": 30,
+  "largura": 960,
+  "altura": 540,
+  "linhas": {
+    "entrada": 0.15,
+    "inspecao": 0.45,
+    "embalagem": 0.85
+  },
+  "faixa_esteira": [
+    172,
+    388
+  ],
+  "pecas": [
+    {
+      "id": 1,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 2.65
+    },
+    {
+      "id": 2,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 3.6
+    },
+    {
+      "id": 3,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 4.39
+    },
+    {
+      "id": 4,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 5.26
+    },
+    {
+      "id": 5,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 6.55
+    },
+    {
+      "id": 6,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 7.36
+    },
+    {
+      "id": 7,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 8.46
+    },
+    {
+      "id": 8,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 9.33
+    },
+    {
+      "id": 9,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 10.33
+    },
+    {
+      "id": 10,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 11.39
+    },
+    {
+      "id": 11,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 12.68
+    },
+    {
+      "id": 12,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 13.7
+    },
+    {
+      "id": 13,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 14.93
+    },
+    {
+      "id": 14,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 15.93
+    },
+    {
+      "id": 15,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 16.72
+    },
+    {
+      "id": 16,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 17.62
+    },
+    {
+      "id": 17,
+      "tipo": "disco",
+      "defeito": true,
+      "t_entrada": 18.46
+    },
+    {
+      "id": 18,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 19.35
+    },
+    {
+      "id": 19,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 20.4
+    },
+    {
+      "id": 20,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 21.38
+    },
+    {
+      "id": 21,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 22.23
+    },
+    {
+      "id": 22,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 23.12
+    },
+    {
+      "id": 23,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 24.4
+    },
+    {
+      "id": 24,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 25.18
+    },
+    {
+      "id": 25,
+      "tipo": "disco",
+      "defeito": true,
+      "t_entrada": 26.14
+    },
+    {
+      "id": 26,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 26.93
+    },
+    {
+      "id": 27,
+      "tipo": "disco",
+      "defeito": true,
+      "t_entrada": 27.68
+    },
+    {
+      "id": 28,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 28.91
+    },
+    {
+      "id": 29,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 29.86
+    },
+    {
+      "id": 30,
+      "tipo": "disco",
+      "defeito": true,
+      "t_entrada": 30.88
+    },
+    {
+      "id": 31,
+      "tipo": "disco",
+      "defeito": true,
+      "t_entrada": 32.08
+    },
+    {
+      "id": 32,
+      "tipo": "bloco",
+      "defeito": true,
+      "t_entrada": 32.91
+    },
+    {
+      "id": 33,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 34.14
+    },
+    {
+      "id": 34,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 35.31
+    },
+    {
+      "id": 35,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 36.51
+    },
+    {
+      "id": 36,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 37.67
+    },
+    {
+      "id": 37,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 38.43
+    },
+    {
+      "id": 38,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 39.43
+    },
+    {
+      "id": 39,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 40.3
+    },
+    {
+      "id": 40,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 41.54
+    },
+    {
+      "id": 41,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 42.34
+    },
+    {
+      "id": 42,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 43.35
+    },
+    {
+      "id": 43,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 44.64
+    },
+    {
+      "id": 44,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 45.48
+    },
+    {
+      "id": 45,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 46.31
+    },
+    {
+      "id": 46,
+      "tipo": "disco",
+      "defeito": true,
+      "t_entrada": 47.36
+    },
+    {
+      "id": 47,
+      "tipo": "barra",
+      "defeito": false,
+      "t_entrada": 48.4
+    },
+    {
+      "id": 48,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 49.27
+    },
+    {
+      "id": 49,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 50.16
+    },
+    {
+      "id": 50,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 51.16
+    },
+    {
+      "id": 51,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 52.19
+    },
+    {
+      "id": 52,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 53.04
+    },
+    {
+      "id": 53,
+      "tipo": "bloco",
+      "defeito": false,
+      "t_entrada": 54.19
+    },
+    {
+      "id": 54,
+      "tipo": "disco",
+      "defeito": false,
+      "t_entrada": 55.37
+    }
+  ],
+  "esperado": {
+    "entrada": {
+      "total": 54,
+      "disco": 32,
+      "bloco": 14,
+      "barra": 8
+    },
+    "inspecao": {
+      "total": 54,
+      "disco": 32,
+      "bloco": 14,
+      "barra": 8
+    },
+    "defeituosas": {
+      "total": 7,
+      "disco": 6,
+      "bloco": 1,
+      "barra": 0
+    },
+    "embalagem": {
+      "total": 47,
+      "disco": 26,
+      "bloco": 13,
+      "barra": 8
+    }
+  }
+}
